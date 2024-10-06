@@ -14,3 +14,4 @@ backend/__pycache__/
 
 # Ignore other unnecessary files
 *.env
+*.env.local
